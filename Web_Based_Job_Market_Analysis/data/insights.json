@@ -1,0 +1,38 @@
+{
+  "total_jobs": 25,
+  "top_skills": {
+    "AI/ML": 10,
+    "wordpress": 6,
+    "research": 6,
+    "insurance": 5,
+    "startup": 5,
+    "travel": 5,
+    "video": 5,
+    "UI/UX": 4,
+    "automation": 4,
+    "documentation": 4
+  },
+  "jobs_by_location_top10": {
+    "Worldwide": 10,
+    "USA": 5,
+    "Americas, Europe, Israel": 2,
+    "Europe, UK, Germany, European timezones": 2,
+    "USA, Canada, USA timezones": 2,
+    "Europe, Canada, South Africa, Philippines, Jamaica": 1,
+    "Americas": 1,
+    "Americas, Europe, Asia, Oceania": 1,
+    "Germany": 1
+  },
+  "top_companies_top10": {
+    "Mitre Media": 2,
+    "Coalition Technologies ": 2,
+    "Baymard Institute": 2,
+    "A.Team": 2,
+    "Speechify, Inc.": 1,
+    "Marketerx": 1,
+    "Shah & Associates CPAs PA": 1,
+    "AE Virtual Class S.A": 1,
+    "EverAI": 1,
+    "Clipboard Health": 1
+  }
+}
